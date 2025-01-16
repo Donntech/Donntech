@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! 
-My name is Diego Maraya and I'm a BS in Information Technology student, from CAT COLLEGE</h2>
+My name is Diego Maraya and I'm a BS Information Technology student, currently in Computer Arts and Technological College Inc.</h2>
 
 ###
 <div align="center">
