@@ -36,7 +36,3 @@ My name is Diego Maraya and I'm a BS Information Technology student, currently i
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DonnTech/DonnTech/output/snake.svg" alt="Snake animation" />
-
-###
