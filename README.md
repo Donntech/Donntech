@@ -31,6 +31,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DonnTech/DonnTech/output/snake.svg" alt="Snake animation" />
 
 ###
